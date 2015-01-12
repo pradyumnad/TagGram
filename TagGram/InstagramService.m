@@ -10,7 +10,7 @@
 
 #define tag @"cats"
 
-NSString *const kClientId = @"";    // view controller storyboard id
+NSString *const kClientId = @"";    // Instagram client id
 NSString *const kTagsMediaURL = @"https://api.instagram.com/v1/tags/%@/media/recent?client_id=%@";
 
 NSString *const kNextURLKey = @"next_url";
